@@ -16,7 +16,8 @@ main {
   margin-inline: auto;
 }
 
-.site-header {;
+.site-header {
+  display: flex;
   align-items: center;
   justify-content: space-between;
   padding-block: 1rem;
